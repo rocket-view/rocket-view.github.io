@@ -1,0 +1,9 @@
+{
+    "short_name": "Rocket",
+    "name": "Rocket",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#333333"
+}
